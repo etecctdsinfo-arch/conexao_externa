@@ -1,4 +1,4 @@
-const {conexao} = require('../conexao.js')
+import conexao from '../conexao.js'
 
 
 async function buscarClientes(){
