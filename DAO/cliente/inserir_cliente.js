@@ -16,4 +16,4 @@ async function incluirCliente(infos){
       }
 }
 
-module.exports = {incluirCliente}
+exports = {incluirCliente}
