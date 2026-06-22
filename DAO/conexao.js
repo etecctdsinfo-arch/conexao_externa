@@ -34,4 +34,4 @@ async function testarConexao() {
   }
 }
 
-export = { conexao, closeConexao, testarConexao }
+export { conexao, closeConexao, testarConexao }
